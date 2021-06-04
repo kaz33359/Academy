@@ -1,0 +1,69 @@
+Github
+------------------------------------------
+https://www.youtube.com/watch?v=w3jLJU7DT5E
+https://www.youtube.com/watch?v=PQsJR8ci3J0
+
+Github Desktop ~ https://www.youtube.com/watch?v=77W2JSL7-r8
+Git ~ https://www.youtube.com/watch?v=Y9XZQO1n_7c (just know)
+
+
+VS-Extension
+------------------------------------------
+https://www.youtube.com/watch?v=c5GAS_PMXDs
+
+Bracket Pair Colorizer 2
+Git Graph
+GitLens — Git supercharged
+HTML Boilerplate
+IntelliSense for CSS class names in HTML
+Live Server
+Material Icon Theme
+Path Intellisense
+Prettier - Code formatter
+CSS Peek
+indent-rainbow
+
+Figma
+------------------------------------------
+https://www.figma.com/
+https://www.youtube.com/watch?v=Gu1so3pz4bA
+
+
+HTML
+------------------------------------------
+https://www.youtube.com/watch?v=qz0aGYrrlhU
+https://www.youtube.com/watch?v=XiQ9rjaa2Ow
+
+CSS
+------------------------------------------
+https://www.youtube.com/watch?v=Tfjd5yzCaxk
+
+JS
+------------------------------------------
+https://www.youtube.com/watch?v=d5ob3WAGeZE&list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt&index=16&t=0s
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
+
+
+Bootstrap
+------------------------------------------
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+https://www.youtube.com/watch?v=onXzut4ymfI
+
+https://www.youtube.com/watch?v=FMFm9GxB_Eo
+https://youtube.com/playlist?list=PL4cUxeGkcC9jE_cGvLLC60C_PeF_24pvv
+https://www.youtube.com/watch?v=5GcQtLDGXy8
+
+https://mdbootstrap.com/
+
+
+Font Awesome
+------------------------------------------
+https://fontawesome.com/
+
+https://www.youtube.com/watch?v=uYPC9JQduu0
+
+
+PHP
+------------------------------------------
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o

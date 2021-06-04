@@ -1,0 +1,116 @@
+@font-face {
+    font-family: sans-serif;
+    src: url();
+}
+body{
+    background-color:#2A272A ;
+    color: white;
+}
+nav{
+    
+}
+
+ul{
+    text-decoration: none;
+    list-style: none;
+
+}
+li{
+    display: inline;    
+}
+ul .navigation{
+    float: right;
+    margin-right: 40px;
+}
+ul .navigation a{
+    color: aqua;
+}
+li a{
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+li img{
+    width: 100px;
+}
+
+.div1{
+    color: balck;
+    background-color: aqua;
+    border: 10px solid red;
+    margin: auto;
+    margin: 30px;
+    padding: 10px 20px 30px 100px;
+}
+
+.div1 h1{
+    font-size: 50px;
+}
+
+.div1 .sub{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.div1 .sub p{
+    line-height: 0.9;
+}
+
+.div2{
+    color: red;
+    background-color: yellow;
+    border: 10px solid green;
+    margin: 30px;
+    padding: 10px 20px 30px 100px;
+}
+
+
+
+.btn{
+    border-radius: 5px;
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.btn a{
+    text-decoration: none;
+    color: black;
+}
+
+.btn:hover{
+    background-color: red;
+    /* color: white; */
+}
+
+footer{
+    display: inline;
+}
+.footer li{
+    display: inline;
+}
+
+ul .copyright{
+    float: left;
+}
+ul .copyright a:hover{
+   color: red;
+}
+
+
+ul i{
+    padding: 5px;
+}
+ul i:hover{
+   color: red;
+}
+
+ul .social{
+    float: right;
+    margin-right: 30px;
+}
+
