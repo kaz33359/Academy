@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+.hw{
+    height: 100px;
+    width: 100px;
+}
+.container{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    padding: 10px;
+}
+.clr-r{
+    background-color: white;
+}
+

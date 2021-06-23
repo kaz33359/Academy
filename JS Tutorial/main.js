@@ -83,10 +83,10 @@
 
 // Function Declaration
 
-// function greet(){
-//     console.log("Hello World!!");
-//     return ;
-// }
+function greet(){
+    console.log("Hello World!!");
+    return ;
+}
 
 // greet(); //Function call
 
@@ -94,9 +94,13 @@
 
 // const speak = function (){
 //     console.log("Hello World!!");
+//     console.log("Hello World!!");
+//     console.log("Hello World!!");
 // };
 
 // speak(); //Function call
+
+// const test = () => 'test';
 
 // const speak = () => 'Hello World!!';
 // const res = speak();
@@ -127,6 +131,14 @@
 //     console.log(pra);
 // });
 
+// const arr = [1,2,3,4,5,6];
+// console.log(arr);
+// arr.forEach(ar =>{
+//         console.log(ar);
+// });
+
+
+
 
 // Element by iD
 // const title = document.getElementById('title');
@@ -142,6 +154,7 @@
 
 
 // const para = document.querySelector('p')
+// console.log(para);
 // console.log(para.innerText);
 
 // para.innerText = "Hello World changes"  // +=
@@ -150,23 +163,29 @@
 
 // para.forEach((para) => {
 //   console.log(para.innerText);
-//   para.innerText += 'New text'
+//   para.innerText += 'New text';
 // });
 
-// const content = document.querySelector( '.content');
+// para.innerText += "New text";
+// para.innerText =  para.innerText+ "New text";
+
+const content = document.querySelector( '.content');
 // console.log(content.innerHTML);
 // content.innerHTML = '<h2>Changed to h2</h2>' // +=
 
-// const people = ['mario','romio','romario'];
-// people.forEach ( person => {
-//     content.innerHTML += `<h3> ${person}</h3>`
-// })
+const people = ['mario','romio','romario'];
+people.forEach ( person => {
+    content.innerHTML += `<h3> ${person}</h3>`
+})
 
-const link = document.querySelector('a')
-console.log(link.getAttribute('href'));
-link.setAttribute("href", "https://thedaxads.com/");
+var a = 'helo';
+console.log(`test ${a}`);
 
-const msg = document.querySelector(".error");
-console.log(msg.getAttribute('class'));
-msg.setAttribute("class", "success");
-msg.setAttribute("style", "color:green");
+// const link = document.querySelector('a')
+// console.log(link.getAttribute('href'));
+// link.setAttribute("href", "https://thedaxads.com/");
+
+// const msg = document.querySelector(".error");
+// console.log(msg.getAttribute('class'));
+// msg.setAttribute("class", "success");
+// msg.setAttribute("style", "color:green");
