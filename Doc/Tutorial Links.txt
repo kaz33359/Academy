@@ -29,6 +29,10 @@ https://www.figma.com/
 https://www.youtube.com/watch?v=Gu1so3pz4bA
 
 
+HTML Reseter
+-------------------------------------------
+https://meyerweb.com/eric/tools/css/reset/
+
 HTML
 ------------------------------------------
 https://www.youtube.com/watch?v=qz0aGYrrlhU
@@ -64,6 +68,35 @@ https://fontawesome.com/
 https://www.youtube.com/watch?v=uYPC9JQduu0
 
 
-PHP
+PHP ~ Core
 ------------------------------------------
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o
+
+PHP ECOM ~ https://www.youtube.com/playlist?list=PLWCLxMult9xfYlDRir2OGRZFK397f3Yeb
+
+PHP Laravel
+------------------------------------------
+https://youtu.be/Ervti0O1wgo
+
+ECOM ~ https://youtube.com/playlist?list=PLWCLxMult9xdD3zH8lDbGwlyaCzOR_74F
+
+https://www.youtube.com/playlist?list=PL8p2I9GklV46dciS4GDzBFHBi0JVIbnzT 
+
+ERD Diagram
+------------------------------------------
+https://www.youtube.com/watch?v=-CuY5ADwn24 ~ base to advance ERD
+https://www.youtube.com/watch?v=QpdhBUYk7Kk ~ base to advance ERD
+https://www.youtube.com/watch?v=A5-yy51eNGY ~ ERD plus
+
+https://app.creately.com/
+https://erdplus.com/
+
+
+
+
+
+
+IMP Links ~ Support Websits
+----------------------------------------------
+https://webformatter.com/html
+https://www.freeformatter.com/
